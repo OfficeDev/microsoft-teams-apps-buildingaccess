@@ -30,7 +30,14 @@ workspace after providing self-attestation on key health questions**.
 Executives and facility managers can use the **included Power BI
 dashboard to gather insights** needed for planning purposes.
 
-<!-- a normal html comment ![A screenshot of the Building Access Home Screen](.//media/image1.png)  -->
+
+![Admin App](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Images/BA_Admin.png)
+
+
+![End user App](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Images/BA_Access.png)
+
+
+![Security App](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Images/BA_Security.png)
 
 The solution is suite of **three** **apps** - **Building Access** app
 for employees and managers, **Building Admin** app for facilities teams
@@ -39,7 +46,8 @@ needs of multiple personas.
 
  
 
-<!-- ![A screenshot of the various personas supported by the App](.//media/image2.jpeg)  -->
+
+![App business personas](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Images/BA_Personas.png)
 
  
 
