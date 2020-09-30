@@ -10,7 +10,7 @@ urlFragment: microsoft-teams-apps-buildingaccess
 
 # Building Access App Template
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Solution-Overview) |
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
 The **Building Access** app can be used by organizations to bring employees
@@ -71,18 +71,7 @@ Here are a few key features:
 
 -   Security teams can leverage the companion Building Security app to get a quick snapshot of the people approved, already onsite and pending check-ins for any building
 
--   Facilities teams can use the Power BI dashboard to check current and projected occupancy levels and use the contact tracing report to identify people that were present at the same time and in the same building as another individual
-
-Please check the [detailed deployment guide](ToDo) that walk through the steps for deploying the app in your environment. The instructions cover:
-
--   Creating a location for your data
--   Running a Power Automate to create the SharePoint lists
--   Importing and configuring the Building Access App
--   Importing and configuring the Building Admin App
--   Importing and configuring the Building Security App
--   Configuring the App settings and creating initial content
--   Deploying the App to Teams
--   Configuring the PowerBI Dashboard
+-   Facilities teams can use the Power BI dashboard to check current and projected occupancy levels and use the contact tracing report to identify people that were present at the same time and in the same building as another individual.
   
 
 ## Legal notice
@@ -104,9 +93,18 @@ This app template is provided under the [MIT License](https://github.com/OfficeD
 
 ## Getting started
 
-Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Solution-overview) to read about what the app does and how it works.
+Begin with the [Getting started guide](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Getting-started) to read about what the app does and how it works.
 
-When you're ready to try out Building Access app, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Deployment-guide).
+When you're ready to try out Building Access app, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-buildingaccess/wiki/Deployment-guide). The instructions cover:
+
+-   Creating a location for your data
+-   Running a Power Automate to create the SharePoint lists
+-   Importing and configuring the Building Access App
+-   Importing and configuring the Building Admin App
+-   Importing and configuring the Building Security App
+-   Configuring the App settings and creating initial content
+-   Deploying the App to Teams
+-   Configuring the PowerBI Dashboard
 
 ## Contributing
 
