@@ -21,6 +21,8 @@ building layouts, and seating arrangements to maintain social distancing
 norms and control building occupancy thresholds. They need a way to
 manage, track and report employee onsite presence.
 
+Please check out this [YouTube video](https://www.youtube.com/watch?v=ZbLPmY3N_Wk&t=6s) for an overview of the app template.
+
 Built using Power Apps, Power Automate, Power BI, and SharePoint Online
 with deep integrations with Microsoft Teams*, the **app allows
 facilities managers to manage facility readiness**, **define occupancy
